@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+*.iml
+.project
+builds/
+.idea/
+*.iws
+*.ipr
+logs/
+/out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+.editorconfig
+
+# Ignore Visual Studio Code internals
+/.vscode
+/debug
+
+### OS ###
+.DS_Store
+
+### add .gitkeep ###
+!.gitkeep

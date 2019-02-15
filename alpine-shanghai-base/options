@@ -1,0 +1,2 @@
+export RELEASE="1.0"
+export TAGS=(shadowwalkerzh/alpine-shanghai-base:$RELEASE)

@@ -1,0 +1,2 @@
+export RELEASE="1.0"
+export TAGS=(shadowwalkerzh/python2.7-shanghai-base:1.0)
