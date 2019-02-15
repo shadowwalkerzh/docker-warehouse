@@ -14,3 +14,7 @@
 ### 1.0
 - Official python2.7
 - Add timezone "Asia/Shanghai"
+
+
+# References
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices)
